@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Samdarshi and I'm a Web Developer from India</h2>
+<h2 align="center">Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> My name is Samdarshi and I'm a Web Developer from India</h2>
 
 ###
 
