@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/727qo8TxQjcAAAAC/jujutsu-kaisen-gojo-satoru.gif"  />
+<img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif"  />
 
 ###
 
