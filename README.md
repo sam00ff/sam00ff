@@ -1,6 +1,6 @@
 <h2 align="center">Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> My name is Samdarshi and I'm a Web Developer from India</h2>
-<div align="center"> <img src="https://github.com/sam00ff/sam00ff/blob/main/banner.jfif"> </div>
-
+<!-- <div align="center"> <img src="https://github.com/sam00ff/sam00ff/blob/main/banner.jfif"> </div>
+ -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sam00ff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
