@@ -14,9 +14,9 @@
 </div>
 
 ###
-
+<div>
 <img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif"  />
-
+</div>
 ###
 
 <div align="left">
