@@ -12,7 +12,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/sam00ff/count.svg?"  />
 </div>
->
+<div>
+<img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif"  />
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,9 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
 </div>
 
-<div>
-<img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif"  />
-</div
+
 
 
 <br clear="both">
