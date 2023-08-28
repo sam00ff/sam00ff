@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Samdarshi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+
 <div>
 <img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif" />
 </div>
