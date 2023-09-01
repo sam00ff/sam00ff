@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <div>
-<img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif" />
+<img align="right" height="150" src="https://github.com/sam00ff/sam00ff/blob/main/gojo.gif"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam00ff&label=Profile%20views&color=0e75b6&style=flat" alt="sam00ff" /> </p>
 
